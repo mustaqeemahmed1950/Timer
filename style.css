@@ -1,0 +1,36 @@
+.main{
+   
+  
+    display: flex;
+   
+}
+#maindiv{ 
+     width: 500px;
+     background-color: cadetblue;
+    height: 500px;
+    border: 14px solid ;
+ 
+    border-radius: 80mm;
+}
+.heading{
+    margin-left: 49px;
+    margin-top: 120px;
+    display: flexbox;
+    font-size: 30px;
+}
+.btn{
+    display: flex;
+}
+.buton{
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 45px;
+    border: none;
+    font-size: 20px;
+    border-radius: 10mm;
+    background-color:  cadetblue;
+    font-weight: bold;
+    color: white;
+    
+    
+}
